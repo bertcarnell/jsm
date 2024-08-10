@@ -4,7 +4,7 @@ The Joint Statistical Meetings (JSM) were held in Portland, Oregon Aug 3-8, 2024
 
 ![JSM Logo](img/jsm_2024_logo.png)
 
-## NISS Luncheon
+## NISS Luncheon (8/4 1200)
 
 ### Veridical Data Science
 
@@ -18,7 +18,7 @@ Dr. Nancy McMillan, Battelle
 
 Xiao-Li Meng showed this great resource [here](https://hdsr.mitpress.mit.edu/) and [here](https://datascience.harvard.edu/)
 
-## Recent Developments in Causal Inference
+## Recent Developments in Causal Inference (8/4 1600)
 
 ### A Meta-Learning Method fo Estimation of Causal Excursion Effects to Assess Time-Varying Moderation
 
@@ -35,6 +35,24 @@ Need to learn more about doubly robust estimators for causal inference:  They es
 Beeswarm plots [here](https://r-graph-gallery.com/beeswarm.html) and [here](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/beeswarm.html)
 
 Can we add this to the torndado package?
+
+## 2024 ASA Statistics in Marketing Doctoral Research Award Finalists Presentation (8/4 0830)
+
+### A Scalable Recommendation Engine for New Users and Items - Boya Xu - Duke
+
+### Optimal Comprehensible Targeting
+
+Method to make decision tree-type comprehensible targeting narratives.  - Walter Zhang
+
+Price Elasticity
+
+### Real Time Personalization in Dynamic Environments - Hong Deng
+
+### Selecting Data and Parameter Granularities:  A Bayesian Dual-Network Clustering Approach - Mingyung Kim - Wharton School
+
+### Targeted Marketing with Large Batches - Keyan Li - MIT
+
+## Bayesian Causal Inference (8/5 1030)
 
 
 
