@@ -134,6 +134,71 @@ Results:  Top Advertisers (controlling for sales region, industry, and campaign 
 - use humor
 - visually complext (negative)
 
+## IMS Medallion Lecture:  Winners with Confidence:  Discrete Argmin Inference Using Cross-Validated Exponential Mechanism - Ji Zhu (8/6 1400)
+
+[paper](https://arxiv.org/abs/2408.02060)
+
+Idea was how to say which machine learning results were actually significantly different from each other
+
+## Robust Causal Inference (8/7 0830)
+
+### Adaptive Experiments with Delayed Outcomes - Waverly Wei - USC
+
+Create adaptive experiments where you measure some things early, and then other measures later, and you want to adaptively change the experiment
+
+### Bias Correction for Randomization-Based Average Treatment Effect Estimation in Inexactly Matched Observational Studies - Siyu Heng - NYU
+
+### Design-based causal inference for balanced incomplete block designs - Nicole Pashley - Rutgers
+
+[Nicole Pashley](https://sites.google.com/view/npashley/home?authuser=0)
+[Taehyeon Koo](https://taehyeonkoo.github.io/)
+
+### Random distribution shift and causal inference - Zhonghua Liu - Columbia
+
+
+
+## New Methods in Causal Inference and Reinforcement Learning for Personalized Decision-Making (8/7 1030)
+
+### The promises of multiple outcomes - Linbo Wang - U Toronto
+
+[website](https://sites.google.com/site/linbowangpku/home)
+[paper](https://arxiv.org/abs/2012.05849)
+[slides](https://drive.google.com/file/d/1jwkefODWm7KBSzl0RNMUT9MABIC8YbIE/view)
+
+### Balancing Personalization and Pooling: Decision-making and Statistical Inference with Limited Time Horizons - Yongyi Guo
+
+### Did We Personalize? Assessing Personalization by an Online Reinforcement Learning Algorithm Using Resampling - Raaz Dwivendi - UC Berkeley
+
+### Further Results on Target Trials and Structural Nested Models: Emulating RCTs using Observational Longitudinal Data - Anish Agarwal - Columbia
+
+
+
+## Causal Inference on Networks and Complex Data Structures (8/7 1400)
+
+### Analyzing Political Polarization in the Presence of Partially Observed Social Networks - Sharmodeep Bhattacharyya, Oregon State University
+
+### Causal Inference Under Network Interference with Noise - Daniel Sussman, Boston University
+
+### Exploratory Data Analysis, Confirmatory Data Analysis and Replication in the Same Observational Study: A Two Team Cross-Screening Approach to Studying the Effect of Unwanted Pregnancy on Mothers' Later Life Outcomes - Dylan Small, University of Pennsylvania
+
+### Nonsense Associations in Markov Random Fields - Elizabeth Ogburn, Johns Hopkins University
+
+
+## COPSS Distinguished Achievement Award and Lectureship (8/7 1600)
+
+#### Pre-Training and the Lasso
+
+[paper](https://arxiv.org/abs/2401.12911)
+[paper](https://arxiv.org/html/2401.12911v1)
+[similar presentation - same slides](https://www.youtube.com/watch?v=zIGc5Z2MaYM)
+[ptLasso](https://github.com/erincr/ptLasso/)
+[web](https://erincr.github.io/ptLasso/)
+[Erin Craig](https://www.erincraig.me/)
+
+
+
+
+
 
 
 
