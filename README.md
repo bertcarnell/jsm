@@ -52,7 +52,92 @@ Price Elasticity
 
 ### Targeted Marketing with Large Batches - Keyan Li - MIT
 
+
+
 ## Bayesian Causal Inference (8/5 1030)
+
+### A Semiparametric Bayesian Approach for Extreme Quantile Treatment Effects for Heavy-tailed data - Arnab  Aich
+
+Could be useful for balances
+
+### Bayesian Causal Prediction:  Multivariate Graphical Dynamic Models - Luke Vrotsos - Duke
+
+Great talk on how to do Bayesian Synthetic controls.
+
+With Mike West at Duke
+
+references:
+
+- [Comparative Politics and the Synthetic Control](https://economics.mit.edu/sites/default/files/publications/Comparative%20Politics%20and%20the%20Synthetic%20Control.pdf)
+- [The Economic Costs of Conflict: A Case Study of the Basque Country](https://economics.mit.edu/sites/default/files/publications/The%20Economic%20Costs%20of%20Conflict.pdf)
+- [Inferring causal impact using Bayesian structural time-series models](https://arxiv.org/abs/1506.00356)
+- [GPU Accelerated Bayesian Learning and Forcasting in Simultaneous Graphical Dynamic Linear Models](https://projecteuclid.org/journals/bayesian-analysis/volume-11/issue-1/GPU-Accelerated-Bayesian-Learning-and-Forecasting-in-Simultaneous-Graphical-Dynamic/10.1214/15-BA946.pdf)
+    - [code](https://github.com/lutzgruber/gpuSGDLM)
+
+### Bayesian Sensitivity Analysis for Extending Inferences to a Target Population without Positivity - Jun Lu - University Illinois
+
+### Causally Sound Priors for Binary Experiments - Nicholas Irons - U Washington
+
+### Horeshoe Priors for Sparse Dirichlet-Multinomial Models - Yuexi Want - University of Illinois
+
+### Incorporate external control data into RCT using propensity score stratification and mixture prior - Xun Xu - U Texas
+
+
+
+## Advanced Statistical Methods in Non-parametric Statistics and Causal Inference for Complex Data Structures (8/5 1400)
+
+### Identifying Significant Mediators in High Dimensional Causal Graphical Models with FDR Control - Xiufan Yu, Notre Dame
+
+### De-confounding Causal Inference using Latent Multiple-Mediator Pathways - Yubai Yuan - Penn State
+
+### Causal Inference on Distribution Functions - Dehan Kong - U Toronto
+
+[paper](https://arxiv.org/abs/2101.01599)
+[code](https://github.com/kongdehanstat/causaldistributionfunction)
+
+### Nonlinear Global Frechet Regression for Random Objects via Weak Conditional Expectation - Satarupa Bhattacharjee - Penn State
+
+### Smoothed Robust Phase Retrieval - Zhong Zheng - Penn State
+
+
+## The Application of Generative Models in Marketing Research and Practice (8/6 1030)
+
+### Using GPT for Market Research - Ayelet Israeli - Harvard Business School
+
+- Used GPT as a random customer sampling mechanism and examined the distribution of its responses
+- When prompted as a random customer, GPT exhibits behaviors consistent with economic theory (price elasticity)
+- GPT-based estimates are realistic and consistent with values obtained from existing research
+
+### Using Multimodal LLM to Extract and Discover Features from Ad Images - Poppy Zhang, Meta
+
+Trained a classifier to extrat the important parts of an image for Meta customers
+
+[nielsen study](https://www.nielsen.com/insights/2017/when-it-comes-to-advertising-effectiveness-what-is-key/)
+
+Lots of other Insights from Nielsen
+ - [here](https://www.nielsen.com/insights/)
+ - [here](https://www.nielsen.com/insights/2022/roi-report/)
+ - [here](https://www.nielsen.com/insights/2024/are-you-investing-performance-marketing-for-right-reasons/)
+
+Multi-model LLM
+
+[LLAVA](https://llava-vl.github.io/)
+
+Results:  Top Advertisers (controlling for sales region, industry, and campaign size)
+
+- show price (negative)
+- contain promotion
+- show positive emotion
+- show experience of using the product
+- comparative
+- show endorsement
+- use humor
+- visually complext (negative)
+
+
+
+
+
 
 
 
